@@ -13,6 +13,10 @@
 
 https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification
 
+| 데이터 사용
+
+test와 train데이터를 올리려고 했으나 용량이 너무커 링크로 올려두었습니다.
+
 https://www.kaggle.com/competitions/dogs-vs-cats/overview
 
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
